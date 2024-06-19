@@ -1,2 +1,2 @@
 # KneE-PAD
-Knee Rehabilitation Exercises for Postural Assessment Dataset
+Code for dowloading, reading and segmenting the Knee Rehabilitation Exercises for Postural Assessment Dataset
